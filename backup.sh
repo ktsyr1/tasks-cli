@@ -6,6 +6,7 @@ projects=(
     "alsbil"
     "ansfni"   
     "Ticket"  
+    "tasks-cli"
 )
 clear
 # حلقة تحديث ورفع المشاريع
@@ -27,7 +28,7 @@ done
 
 
 echo "|---------------------------------------------|" 
-echo -e "        ${green} alam  alsbil   ansfni   Ticket ${rest}" 
+echo -e "   ${green} alam  alsbil   ansfni   Ticket tasks-cli  ${rest}" 
     
 echo -e "|->          ${green} تم تحديث كل المشاريع ${rest}         <-|"
 echo "|---------------------------------------------|"
